@@ -1,9 +1,15 @@
+# Purpose
+
+This repo is for code used in:
+
+Leithe S, Møller B, Aagnes B, Nilssen Y, Lambert PC, Myklebust TÅ. Maximal Local Privacy Loss-A New Method for Privacy Evaluation of Synthetic Datasets. Stat Med. 2026;45(1-2):e70376. <https://doi.org/10.1002/sim.70376>
+
+Corresponding author:  Sigrid Leithe sigrid.leithe@fhi.no
+
 # Description
 
 ## Introduction
 The project is used to generate synthetic time-to-event data and evaluate privacy in terms om *maximum local privacy loss*. Utility metrics and similarity based privacy metrics are also calculated. 
-
-**Responsible:** Sigrid Leithe sigrid.leithe@fhi.no
 
 ## Organisation of project
 
